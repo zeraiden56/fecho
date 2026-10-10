@@ -1,0 +1,36 @@
+Semente: 20261010 | 200 partidas por confronto ordenado
+conservadora × conservadora: posição 1 venceu 48.50% (97/200)
+conservadora × agressiva: posição 1 venceu 52.50% (105/200)
+conservadora × blefadora: posição 1 venceu 58.00% (116/200)
+conservadora × adaptativa: posição 1 venceu 47.50% (95/200)
+agressiva × conservadora: posição 1 venceu 45.00% (90/200)
+agressiva × agressiva: posição 1 venceu 42.50% (85/200)
+agressiva × blefadora: posição 1 venceu 53.00% (106/200)
+agressiva × adaptativa: posição 1 venceu 45.00% (90/200)
+blefadora × conservadora: posição 1 venceu 45.00% (90/200)
+blefadora × agressiva: posição 1 venceu 44.50% (89/200)
+blefadora × blefadora: posição 1 venceu 50.00% (100/200)
+blefadora × adaptativa: posição 1 venceu 39.50% (79/200)
+adaptativa × conservadora: posição 1 venceu 52.50% (105/200)
+adaptativa × agressiva: posição 1 venceu 55.00% (110/200)
+adaptativa × blefadora: posição 1 venceu 55.00% (110/200)
+adaptativa × adaptativa: posição 1 venceu 46.50% (93/200)
+Partidas: 3200 | Rodadas: 26425 | Média de rodadas: 8.258
+Força final 0: 24802 (46.93%)
+Força final 3: 4106 (7.77%)
+Força final 5: 4503 (8.52%)
+Força final 8: 9650 (18.26%)
+Força final 10: 9789 (18.52%)
+fecho: 20093 (76.04% das rodadas)
+refecho: 3399 (12.86% das rodadas)
+final: 1234 (4.67% das rodadas)
+recuos: 8264 (31.27% das rodadas)
+empates: 5340 (20.21% das rodadas)
+Pote ao final de cada rodada: média 1.620; máximo 31
+Vitória por posição inicial: 1 = 48.75%; 2 = 51.25%
+Compras: 41399 | Média por rodada: 1.567 | Máximo de ações por partida: 176
+Rodadas com comprometimento: 5352 (20.25%)
+FECHO contra comprometido: 1449 (7.21% dos FECHOS; 5.48% das rodadas)
+REFECHO como contra-blefe comprometido (força 0 ou 3): 258 (7.59% dos REFECHOS)
+Desafios com força 0 ou 3: FECHO 5513; REFECHO 861; FECHO FINAL 23
+Referência de dois sorteios: 52.10526% exata; 52.03150% observada (200000 amostras); diferença -0.07376 p.p.

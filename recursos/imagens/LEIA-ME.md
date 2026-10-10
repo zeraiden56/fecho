@@ -1,0 +1,1 @@
+Adicione imagens PNG próprias com o identificador da carta como nome, por exemplo `arthur.png` ou `falar_demais.png`. A interface usa a imagem no espaço central de 52 × 52 pixels e mantém as informações de texto. Na ausência de imagem, desenha símbolos provisórios.

@@ -1,0 +1,8 @@
+require('testes.testar_baralho')
+require('testes.testar_regras')
+require('testes.testar_apostas')
+require('testes.testar_compras')
+require('testes.testar_interface')
+require('testes.testar_ia')
+require('testes.testar_comprometimento')
+print('Total: '..require('testes.apoio').quantidade..' verificações aprovadas.')

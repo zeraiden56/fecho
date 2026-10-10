@@ -1,0 +1,29 @@
+Semente: 20261010 | 300 partidas por confronto ordenado
+facil × facil: posição 1 venceu 49.33% (148/300)
+facil × normal: posição 1 venceu 48.33% (145/300)
+facil × dificil: posição 1 venceu 42.00% (126/300)
+normal × facil: posição 1 venceu 51.00% (153/300)
+normal × normal: posição 1 venceu 49.67% (149/300)
+normal × dificil: posição 1 venceu 46.00% (138/300)
+dificil × facil: posição 1 venceu 54.00% (162/300)
+dificil × normal: posição 1 venceu 50.33% (151/300)
+dificil × dificil: posição 1 venceu 51.67% (155/300)
+Partidas: 2700 | Rodadas: 22209 | Média de rodadas: 8.226
+Força final 0: 20929 (47.12%)
+Força final 3: 3412 (7.68%)
+Força final 5: 3797 (8.55%)
+Força final 8: 8188 (18.43%)
+Força final 10: 8092 (18.22%)
+fecho: 16768 (75.50% das rodadas)
+refecho: 2882 (12.98% das rodadas)
+final: 1192 (5.37% das rodadas)
+recuos: 6897 (31.05% das rodadas)
+empates: 4645 (20.91% das rodadas)
+Pote ao final de cada rodada: média 1.735; máximo 32
+Vitória por posição inicial: 1 = 49.15%; 2 = 50.85%
+Compras: 35620 | Média por rodada: 1.604 | Máximo de ações por partida: 135
+Rodadas com comprometimento: 4702 (21.17%)
+FECHO contra comprometido: 1573 (9.38% dos FECHOS; 7.08% das rodadas)
+REFECHO como contra-blefe comprometido (força 0 ou 3): 253 (8.78% dos REFECHOS)
+Desafios com força 0 ou 3: FECHO 4198; REFECHO 683; FECHO FINAL 31
+Referência de dois sorteios: 52.10526% exata; 52.03150% observada (200000 amostras); diferença -0.07376 p.p.
